@@ -20,11 +20,13 @@ body{
 }
 
 .myexperience h2{
+  padding:0px;
+  margin:0px;
   vertical-align:bottom;
 }
 
 .myexperience h4{
-  padding:20px;
+  padding:50px;
 }
 
 
