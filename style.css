@@ -21,6 +21,10 @@ body{
   vertical-align:bottom;
 }
 
+.myexperience ul{
+  text-align:left;
+}
+
 .myexperience h4{
   padding-left:50px;
 }
