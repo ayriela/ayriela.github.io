@@ -6,6 +6,11 @@ body{
   text-align: center;
 }
 
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
 #date{
   text-align:right;
   display: inline;
