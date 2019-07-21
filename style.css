@@ -15,12 +15,12 @@ header nav {
   justify-content: flex-end;
 }
 
-.container h3{
+section h3{
   text-decoration: underline;
   vertical-align:middle;
 }
 
-.container h4{
+section h4{
   vertical-align:middle;
 }
 
