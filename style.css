@@ -10,7 +10,9 @@ body{
   text-align: center;
 }
 
-
+.btn {
+  border-radius:0;
+}
 
 .myexperience h3{
   color: red;
