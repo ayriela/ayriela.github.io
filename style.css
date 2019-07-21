@@ -1,4 +1,8 @@
 body{
+  margin-left:20px;
+  margin-top:10px;
+  margin-right:20px;
+  margin-bottom:10px;
   font-family:Optima,Helvetica,sans-serif;
 }
 .header{
