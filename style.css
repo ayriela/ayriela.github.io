@@ -11,6 +11,10 @@ header nav {
   justify-content: flex-end;
 }
 
+.container h3{
+  text-decoration: underline;
+}
+
 #date{
   text-align:right;
   display: inline;
