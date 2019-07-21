@@ -13,18 +13,16 @@ body{
   text-align: center;
 }
 
-.btn {
-  border-radius:0;
-}
-
 .myexperience h3{
   text-decoration: underline;
-  padding: 20px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .myexperience h2{
   vertical-align:bottom;
 }
+
 .myexperience h4{
   padding:20px;
 }
