@@ -19,14 +19,14 @@ body{
 
 .myexperience h3{
   text-decoration: underline;
-  vertical-align:middle;
+  padding: 20px;
 }
 
 .myexperience h2{
   vertical-align:bottom;
 }
 .myexperience h4{
-  vertical-align:middle;
+  padding:20px;
 }
 
 
