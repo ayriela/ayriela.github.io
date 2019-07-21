@@ -1,7 +1,12 @@
 body{
-  font-family:Optima;
+  font-family:Optima,Helvetica,sans-serif;
 }
 .header{
   color: navy;
   text-align: center;
+}
+
+#date{
+  text-align:right;
+  display: inline;
 }
