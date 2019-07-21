@@ -10,22 +10,15 @@ body{
   text-align: center;
 }
 
-header nav {
-  display: flex;
-  justify-content: flex-end;
-}
 
-section h3{
+
+.myexperience h3{
   text-decoration: underline;
   vertical-align:middle;
 }
 
-section h4{
+.myexperience h4{
   vertical-align:middle;
 }
 
 
-#date{
-  text-align:right;
-  display: inline;
-}
