@@ -4,13 +4,16 @@ body{
   align:center;
   margin-left:100px;
   margin-top:10px;
-  margin-right:100px;
-  margin-bottom:10px;
   font-family:Optima,Helvetica,sans-serif;
 }
 .header{
   color: navy;
   text-align: center;
+}
+
+.myexperience{
+  margin-left:100px;
+  margin-right:100px;
 }
 
 .myexperience h3{
