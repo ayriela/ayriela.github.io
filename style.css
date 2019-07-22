@@ -5,6 +5,7 @@ body{
   margin-left:100px;
   margin-top:10px;
   font-family:Optima,Helvetica,sans-serif;
+  background-color:#7493A5;
 }
 .header{
   color: navy;
@@ -22,6 +23,7 @@ body{
 
 .myexperience h2{
   vertical-align:bottom;
+  color:#484846;
 }
 
 .myexperience ul{
